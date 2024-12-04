@@ -1,0 +1,15 @@
+[02:56:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:56:33] [ServerMain/INFO]: Loaded 1290 recipes
+[02:56:33] [ServerMain/INFO]: Loaded 1399 advancements
+[02:56:34] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[02:56:34] [Server thread/INFO]: Loading properties
+[02:56:34] [Server thread/INFO]: Default game type: SURVIVAL
+[02:56:34] [Server thread/INFO]: Generating keypair
+[02:56:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:56:34] [Server thread/INFO]: Using epoll channel type
+[02:56:34] [Server thread/INFO]: Preparing level "world"
+[02:56:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:56:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:56:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:56:42] [Server thread/INFO]: Time elapsed: 828 ms
+[02:56:42] [Server thread/INFO]: Done (8.156s)! For help, type "help"
